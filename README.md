@@ -23,3 +23,5 @@ Microservices is an architectural style and approach to building software system
 Microservices offer several benefits, including increased flexibility, scalability, resilience, and the ability to adopt different technologies for different services. However, they also introduce challenges such as managing service interdependencies, ensuring data consistency, and handling communication and coordination between services.
 
 Overall, microservices provide a way to build complex applications by breaking them down into smaller, manageable components that can be developed and deployed independently, leading to more agile and scalable systems.
+
+![Microservive syncronous](ms-syncronous.PNG)
